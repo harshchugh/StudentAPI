@@ -1,0 +1,12 @@
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\bin\Debug\net5.0\StudentLibrary.deps.json
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\bin\Debug\net5.0\StudentLibrary.dll
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\bin\Debug\net5.0\ref\StudentLibrary.dll
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\bin\Debug\net5.0\StudentLibrary.pdb
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\obj\Debug\net5.0\StudentLibrary.csproj.AssemblyReference.cache
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\obj\Debug\net5.0\StudentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\obj\Debug\net5.0\StudentLibrary.AssemblyInfoInputs.cache
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\obj\Debug\net5.0\StudentLibrary.AssemblyInfo.cs
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\obj\Debug\net5.0\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\obj\Debug\net5.0\StudentLibrary.dll
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\obj\Debug\net5.0\ref\StudentLibrary.dll
+C:\Test\Practice\.NetCore\StudentAPI\StudentLibrary\obj\Debug\net5.0\StudentLibrary.pdb
